@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jessicasgc&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jessicasgc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
- https://github-readme-stats.vercel.app/api?username=jessicasgc&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient&include_all_commits=true&count_private=true"
+<img src="https://github-readme-stats.vercel.app/api?username=jessicasgc&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
 <!--
 **Jessicasgc/Jessicasgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
