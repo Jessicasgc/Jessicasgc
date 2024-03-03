@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Jessicasgc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicasg)](https://github.com/jessicasg/github-readme-stats)  
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jessicasgc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 
 <!--
