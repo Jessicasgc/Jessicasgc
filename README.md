@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jessicasgc&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jessicasgc&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 <!--
 **Jessicasgc/Jessicasgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
