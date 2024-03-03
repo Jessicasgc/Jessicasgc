@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Jessicasgc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicasgc&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Jessicasgc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicasg)](https://github.com/jessicasg/github-readme-stats)
 
 
 <!--
