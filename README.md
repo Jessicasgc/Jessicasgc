@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Jessicasgc's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessicasgc&show_icons=true&include_all_commits=true&since=2023-01-01)
+![Jessicasgc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicasgc&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 <!--
 **Jessicasgc/Jessicasgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
