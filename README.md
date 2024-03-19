@@ -1,5 +1,11 @@
 ### Hi there 👋
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jessicasgc&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<p align="left">
+  <a href="https://github.com/Jessicasgc">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jessicasgc&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/Jessicasgc"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Jessicasgc&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  </a>
+</p>
 <!--
 **Jessicasgc/Jessicasgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
